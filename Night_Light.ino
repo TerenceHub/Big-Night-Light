@@ -1,9 +1,7 @@
 /*
-110V Night LIGHT (on for 30 seconds)
+110V Night LIGHT (time extended for 30 seconds)
 
-Author: Terence Ho
-Date: 2014/10/9
-Version: 6.0
+Author: Terence
 Refer to http://blog.ddt.idv.tw/2014/10/arduino.html
 */
 
